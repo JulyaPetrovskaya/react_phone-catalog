@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.e55e4bb9.chunk.css",
-    "main.js": "./static/js/main.7d3d5692.chunk.js",
-    "main.js.map": "./static/js/main.7d3d5692.chunk.js.map",
+    "main.css": "./static/css/main.c4198bbc.chunk.css",
+    "main.js": "./static/js/main.e15d0658.chunk.js",
+    "main.js.map": "./static/js/main.e15d0658.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.7608d6c9.chunk.js": "./static/js/2.7608d6c9.chunk.js",
-    "static/js/2.7608d6c9.chunk.js.map": "./static/js/2.7608d6c9.chunk.js.map",
+    "static/js/2.50448ed0.chunk.js": "./static/js/2.50448ed0.chunk.js",
+    "static/js/2.50448ed0.chunk.js.map": "./static/js/2.50448ed0.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.e55e4bb9.chunk.css.map": "./static/css/main.e55e4bb9.chunk.css.map",
-    "static/js/2.7608d6c9.chunk.js.LICENSE.txt": "./static/js/2.7608d6c9.chunk.js.LICENSE.txt",
+    "static/css/main.c4198bbc.chunk.css.map": "./static/css/main.c4198bbc.chunk.css.map",
+    "static/js/2.50448ed0.chunk.js.LICENSE.txt": "./static/js/2.50448ed0.chunk.js.LICENSE.txt",
+    "static/media/ArrowDown.98c9dd6d.svg": "./static/media/ArrowDown.98c9dd6d.svg",
     "static/media/Banner.scss": "./static/media/ArrowRight.e028d388.svg",
+    "static/media/ArrowUp.9d96d8b3.svg": "./static/media/ArrowUp.9d96d8b3.svg",
+    "static/media/FavouritesFilled.d554a185.svg": "./static/media/FavouritesFilled.d554a185.svg",
     "static/media/Header.scss": "./static/media/logo.13ce922e.svg",
+    "static/media/accessoryBanner.a973a6e7.png": "./static/media/accessoryBanner.a973a6e7.png",
     "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
     "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
     "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
     "static/media/cross.3ea864f5.svg": "./static/media/cross.3ea864f5.svg",
-    "static/media/search.eb670dd9.svg": "./static/media/search.eb670dd9.svg"
+    "static/media/phoneBaner.b743e9c4.png": "./static/media/phoneBaner.b743e9c4.png",
+    "static/media/search.eb670dd9.svg": "./static/media/search.eb670dd9.svg",
+    "static/media/tabletBaner.12abf993.png": "./static/media/tabletBaner.12abf993.png"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.7608d6c9.chunk.js",
-    "static/css/main.e55e4bb9.chunk.css",
-    "static/js/main.7d3d5692.chunk.js"
+    "static/js/2.50448ed0.chunk.js",
+    "static/css/main.c4198bbc.chunk.css",
+    "static/js/main.e15d0658.chunk.js"
   ]
 }
