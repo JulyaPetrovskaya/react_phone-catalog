@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.701627ac.chunk.css",
-    "main.js": "./static/js/main.d08596d1.chunk.js",
-    "main.js.map": "./static/js/main.d08596d1.chunk.js.map",
+    "main.css": "./static/css/main.82d0e14c.chunk.css",
+    "main.js": "./static/js/main.ea66e887.chunk.js",
+    "main.js.map": "./static/js/main.ea66e887.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.2f49023e.chunk.js": "./static/js/2.2f49023e.chunk.js",
-    "static/js/2.2f49023e.chunk.js.map": "./static/js/2.2f49023e.chunk.js.map",
+    "static/js/2.e48582b5.chunk.js": "./static/js/2.e48582b5.chunk.js",
+    "static/js/2.e48582b5.chunk.js.map": "./static/js/2.e48582b5.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.701627ac.chunk.css.map": "./static/css/main.701627ac.chunk.css.map",
-    "static/js/2.2f49023e.chunk.js.LICENSE.txt": "./static/js/2.2f49023e.chunk.js.LICENSE.txt",
+    "static/css/main.82d0e14c.chunk.css.map": "./static/css/main.82d0e14c.chunk.css.map",
+    "static/js/2.e48582b5.chunk.js.LICENSE.txt": "./static/js/2.e48582b5.chunk.js.LICENSE.txt",
     "static/media/ArrowDown.98c9dd6d.svg": "./static/media/ArrowDown.98c9dd6d.svg",
     "static/media/Pagination.scss": "./static/media/ArrowRight.e028d388.svg",
-    "static/media/ArrowUp.9d96d8b3.svg": "./static/media/ArrowUp.9d96d8b3.svg",
+    "static/media/Footer.scss": "./static/media/ArrowUp.9d96d8b3.svg",
     "static/media/Close.62551bb4.svg": "./static/media/Close.62551bb4.svg",
     "static/media/FavouritesFilled.d554a185.svg": "./static/media/FavouritesFilled.d554a185.svg",
     "static/media/Header.scss": "./static/media/ShoppingCart.1962e424.svg",
     "static/media/Hamburger.0d3c31af.svg": "./static/media/Hamburger.0d3c31af.svg",
     "static/media/Minus.cecb4be3.svg": "./static/media/Minus.cecb4be3.svg",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/NiceGadgets.17c0e2d1.svg": "./static/media/NiceGadgets.17c0e2d1.svg",
     "static/media/Plus.dea15724.svg": "./static/media/Plus.dea15724.svg",
     "static/media/accessoryBanner.a973a6e7.png": "./static/media/accessoryBanner.a973a6e7.png",
     "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
@@ -34,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.2f49023e.chunk.js",
-    "static/css/main.701627ac.chunk.css",
-    "static/js/main.d08596d1.chunk.js"
+    "static/js/2.e48582b5.chunk.js",
+    "static/css/main.82d0e14c.chunk.css",
+    "static/js/main.ea66e887.chunk.js"
   ]
 }
