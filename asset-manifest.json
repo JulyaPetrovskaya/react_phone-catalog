@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.4e27bb52.chunk.css",
-    "main.js": "./static/js/main.2f49a0ab.chunk.js",
-    "main.js.map": "./static/js/main.2f49a0ab.chunk.js.map",
+    "main.css": "./static/css/main.20ef8e13.chunk.css",
+    "main.js": "./static/js/main.c36536c3.chunk.js",
+    "main.js.map": "./static/js/main.c36536c3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.e48582b5.chunk.js": "./static/js/2.e48582b5.chunk.js",
-    "static/js/2.e48582b5.chunk.js.map": "./static/js/2.e48582b5.chunk.js.map",
+    "static/js/2.2f49023e.chunk.js": "./static/js/2.2f49023e.chunk.js",
+    "static/js/2.2f49023e.chunk.js.map": "./static/js/2.2f49023e.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.4e27bb52.chunk.css.map": "./static/css/main.4e27bb52.chunk.css.map",
-    "static/js/2.e48582b5.chunk.js.LICENSE.txt": "./static/js/2.e48582b5.chunk.js.LICENSE.txt",
+    "static/css/main.20ef8e13.chunk.css.map": "./static/css/main.20ef8e13.chunk.css.map",
+    "static/js/2.2f49023e.chunk.js.LICENSE.txt": "./static/js/2.2f49023e.chunk.js.LICENSE.txt",
     "static/media/ArrowDown.98c9dd6d.svg": "./static/media/ArrowDown.98c9dd6d.svg",
     "static/media/Pagination.scss": "./static/media/ArrowRight.e028d388.svg",
     "static/media/ArrowUp.9d96d8b3.svg": "./static/media/ArrowUp.9d96d8b3.svg",
@@ -22,17 +22,20 @@
     "static/media/accessoryBanner.a973a6e7.png": "./static/media/accessoryBanner.a973a6e7.png",
     "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
     "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
-    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/cart-is-empty.86ebaf66.png": "./static/media/cart-is-empty.86ebaf66.png",
+    "static/media/category-phones.7dfccacb.png": "./static/media/category-phones.7dfccacb.png",
     "static/media/cross.3ea864f5.svg": "./static/media/cross.3ea864f5.svg",
+    "static/media/ipad-new.cfc9d201.png": "./static/media/ipad-new.cfc9d201.png",
     "static/media/Menu.scss": "./static/media/logo.13ce922e.svg",
-    "static/media/phoneBaner.b743e9c4.png": "./static/media/phoneBaner.b743e9c4.png",
+    "static/media/page-not-found.6f5b1234.png": "./static/media/page-not-found.6f5b1234.png",
+    "static/media/product-not-found.8214da88.png": "./static/media/product-not-found.8214da88.png",
     "static/media/search.eb670dd9.svg": "./static/media/search.eb670dd9.svg",
     "static/media/tabletBaner.12abf993.png": "./static/media/tabletBaner.12abf993.png"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.e48582b5.chunk.js",
-    "static/css/main.4e27bb52.chunk.css",
-    "static/js/main.2f49a0ab.chunk.js"
+    "static/js/2.2f49023e.chunk.js",
+    "static/css/main.20ef8e13.chunk.css",
+    "static/js/main.c36536c3.chunk.js"
   ]
 }
