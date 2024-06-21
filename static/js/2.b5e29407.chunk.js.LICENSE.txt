@@ -10,6 +10,12 @@ object-assign
 	http://jedwatson.github.io/classnames
 */
 
+/*!
+ * content-type
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
 /**
  * @remix-run/router v1.13.0
  *
